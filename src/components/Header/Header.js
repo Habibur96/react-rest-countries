@@ -4,11 +4,11 @@ import './Header.css'
 const Header = () => {
     return (
         <div>
-            <h2>Hi, React Mama!!</h2>
+            <h2>Welcome to my rest countries</h2>
             <nav>
                 <a href="/home">Home</a>
-                <a href="/shop">Shop</a>
-                <a href="/location">Location</a>
+                <a href="/countries">Shop</a>
+                <a href="/about">Location</a>
             </nav>
         </div>
     );

@@ -14,8 +14,8 @@ const Countries = () => {
     }, [])
     return (
         <div >
-            <h2>Countries in other File Detail.</h2>
-            <h3>Total countries: {countries.length}</h3>
+            <h4>Countries in other File Detail.</h4>
+            <h5>Total countries: {countries.length}</h5>
             {/* {
                 countries.map(country => console.log(country))
             } */}
